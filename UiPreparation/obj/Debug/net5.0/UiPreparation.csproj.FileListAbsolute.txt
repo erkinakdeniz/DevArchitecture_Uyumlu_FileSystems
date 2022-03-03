@@ -1,0 +1,16 @@
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.exe
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.deps.json
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.runtimeconfig.json
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.runtimeconfig.dev.json
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.dll
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\ref\UiPreparation.dll
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\bin\Debug\net5.0\UiPreparation.pdb
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.csprojAssemblyReference.cache
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.AssemblyInfoInputs.cache
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.AssemblyInfo.cs
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.dll
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\ref\UiPreparation.dll
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.pdb
+C:\Users\Erkin\Desktop\proje yedek\DevArchitecture\DevArchitecture-master\UiPreparation\obj\Debug\net5.0\UiPreparation.genruntimeconfig.cache
